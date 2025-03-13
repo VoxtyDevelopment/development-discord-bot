@@ -28,3 +28,4 @@ This Bot was developed by
 
 - [@voxty](https://github.com/voxty)
 - [@mhm](https://github.com/ebt-mhm)
+  
